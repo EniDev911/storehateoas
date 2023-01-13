@@ -27,4 +27,4 @@ INSERT INTO inventario VALUES
 
 ---
 
-![screenshot2](png/screenshoot2.png)
+![screenshot2](png/screenshot2.png)
