@@ -1,3 +1,8 @@
+### DEMO 
+
+endpoint con hateoas => [endpoint1](https://storehateoas.marcocontreraas.repl.co/joyas?limits=3&page=2&order_by=stock_ASC)
+endpoint con filtros => [endpoint2](https://storehateoas.marcocontreraas.repl.co/joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata)
+
 ### SQL 
 
 ```sql
